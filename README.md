@@ -4,7 +4,7 @@ The arPLS GUI was developed to facilitate baseline correction. It incorporates a
 
 ## Requirements
 
-The arPLS GUI is fully compatible with Matlab 2020a and newer. The GA Optimizer requires brash plot functionality, which was implemented with uifigure since Matlab 2020a. However, there is the possibility to use the arPLS main window alone, without the GA Optimizer. It is compatible with Matlab 2018a and newer.
+The arPLS GUI is fully compatible with Matlab 2020a and newer. The GA Optimizer requires brash plot functionality, which was implemented with uifigure since Matlab 2020a. However, there is the possibility to use the arPLS main window alone, without the GA Optimizer. It is compatible with Matlab 2018a and newer. Along with the presented software, also previous version coded in .m file was included, compatible with older versions of Matlab.
 
 ## arPLS main window
 
