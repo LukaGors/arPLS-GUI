@@ -48,3 +48,8 @@ arPLS GUI is licensed under GPLv3.
 ## Authors
 
 This program is developed by Łukasz Górski <lgorski@agh.edu.pl> and Małgorzata Jakubowska <jakubows@agh.edu.pl>.
+
+## References
+
+1. Ł. Górski, M. Jakubowska, A graphical user interface for arPLS baseline correction, Chemometrics and Intelligent Laboratory Systems, Volume 238, 2023, 104848, DOI: <https://doi.org/10.1016/j.chemolab.2023.104848.>
+2. S.-J. Baek, A. Park, Y.-J. Ahn, J. Choo, Baseline correction using asymmetrically reweighted penalized least squares smoothing, Analyst, Volume 140, 2015, 250, DOI: <https://doi.org/10.1039/C4AN01061B.>
